@@ -1,0 +1,8 @@
+
+.vscode/.BROWSE.VC.DB
+.vscode/.BROWSE.VC.DB-shm
+.vscode/.BROWSE.VC.DB-wal
+*.DB
+*.DB-shm
+*.exe
+game.exe

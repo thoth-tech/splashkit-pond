@@ -4,19 +4,19 @@
 
 # SplashKit Pond
 
-**SplashKit Pond** is an experimental area for testing and developing new games using the SplashKit SDK. This repository is intended for early-stage games and experimental projects that are still in development or are not yet ready for release. Once these games reach a more stable and polished state, they can progress to **SplashKit Lake** for further refinement and potential inclusion in **SplashKit Beach**.
+**SplashKit Pond** is an experimental area for testing and developing new games using the SplashKit SDK. This repository is intended for early-stage games and experimental projects that are still in development or are not yet ready for release. Once these games reach a more stable and polished state, they can progress to **[SplashKit Lake](https://github.com/thoth-tech/splashkit-lake)** for further refinement and potential inclusion in **[SplashKit Beach](https://github.com/thoth-tech/splashkit-beach)**.
 
 ## Purpose
 
-SplashKit Pond serves as a sandbox environment where developers can experiment, innovate, and test new ideas. It’s a place for creativity and exploration within the SplashKit community, allowing contributors to work on games without the constraints of a fully polished release. Games here may be incomplete, buggy, or lack certain features, as they are primarily works in progress.
+SplashKit Pond serves as a sandbox environment where developers can experiment, innovate, and test new ideas. It's a place for creativity and exploration within the SplashKit community, allowing contributors to work on games without the constraints of a fully polished release. Games here may be incomplete, buggy, or lack certain features, as they are primarily works in progress.
 
 ## Repository Structure
 
-Games within SplashKit Pond are organized as individual folders within this repository. Each folder represents a different game or experimental project, allowing contributors to explore and test new ideas independently. Once a game in SplashKit Pond becomes more stable and complete, it can be moved to **SplashKit Lake** for further refinement. From there, fully polished and stable games may advance to **SplashKit Beach** for public release in the **Arcade Machine**.
+Games within SplashKit Pond are organized as individual folders within this repository. Each folder represents a different game or experimental project, allowing contributors to explore and test new ideas independently. Once a game in SplashKit Pond becomes more stable and complete, it can be moved to **[SplashKit Lake](https://github.com/thoth-tech/splashkit-lake)** for further refinement. From there, fully polished and stable games may advance to **[SplashKit Beach](https://github.com/thoth-tech/splashkit-beach)** for public enjoyment.
 
 ## Getting Started
 
-To explore or contribute to the experimental games in SplashKit Pond, you’ll need to have the SplashKit SDK installed. Follow the [SplashKit Installation Guide](http://www.splashkit.io/installation/) to set up your environment.
+To explore or contribute to the experimental games in SplashKit Pond, you'll need to have the SplashKit SDK installed. Follow the [SplashKit Installation Guide](http://www.splashkit.io/installation/) to set up your environment.
 
 ## Notes
 

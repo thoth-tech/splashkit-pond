@@ -1,3 +1,4 @@
+# SplashKit Pond
 <p align="left">
     <img width="150px" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit.png"/>
 </p>
@@ -7,8 +8,6 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/splashkit-pond?label=Pull%20Requests&color=F5A623)](https://github.com/thoth-tech/splashkit-pond/pulls)
 [![Forks](https://img.shields.io/github/forks/thoth-tech/splashkit-pond?label=Forks&color=F5A623)](https://github.com/thoth-tech/splashkit-pond/network/members)
 [![Stars](https://img.shields.io/github/stars/thoth-tech/splashkit-pond?label=Stars&color=F5A623)](https://github.com/thoth-tech/splashkit-pond/stargazers)
-
-# SplashKit Pond
 
 **SplashKit Pond** is an experimental area for testing and developing new games using the SplashKit SDK. This repository is intended for early-stage games and experimental projects that are still in development or are not yet ready for release. Once these games reach a more stable and polished state, they can progress to **[SplashKit Lake](https://github.com/thoth-tech/splashkit-lake)** for further refinement and potential inclusion in **[SplashKit Beach](https://github.com/thoth-tech/splashkit-beach)**.
 

@@ -1,0 +1,3 @@
+[submodule "arcade-games"]
+	path = arcade-games
+	url = https://github.com/thoth-tech/arcade-games
